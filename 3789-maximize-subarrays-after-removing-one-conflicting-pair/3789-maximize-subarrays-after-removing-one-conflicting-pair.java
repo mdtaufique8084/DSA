@@ -1,51 +1,39 @@
 class Solution {
     public long maxSubarrays(int n, int[][] conflictingPairs) {
-        long valid = 0;
-
-        // conflictingPoints[i] = list of points which conflict with i
-        List<List<Integer>> conflictingPoints = new ArrayList<>();
-        for (int i = 0; i <= n; i++) {
-            conflictingPoints.add(new ArrayList<>());
+        long valid =0;
+        // list to store the piont i{1,2,3,4,5..} and its conflicting pair{1,2,3,4...} in the form of list<Integer>
+        List<List<Integer>> conflictingPoinsts=new ArrayList<>();
+        for(int i=0;i<=n;i++){
+            conflictingPoinsts.add(new ArrayList<>());
+        }
+        for(int p[]:conflictingPairs){
+            int a=Math.min(p[0],p[1]); // minimum value of each pair
+            int b=Math.max(p[0],p[1]); // maximum value of each pair
+            conflictingPoinsts.get(b).add(a); // add in the form of  [5->{2,3}..]
         }
 
-        // Build the conflicting points list
-        for (int[] p : conflictingPairs) { 
-            int a = Math.min(p[0], p[1]);
-            int b = Math.max(p[0], p[1]);
-            conflictingPoints.get(b).add(a);
-        }
-
-        int maxConflict = 0;
-        int secondMaxConflict = 0;
-
-        // extra[i] = number of extra subarrays by removing the conflicting point i
-        long[] extra = new long[n + 1];
-
-        // Process each end point of subarrays
-        for (int end = 1; end <= n; end++) {
-            // Check all conflicting points of 'end'
-            for (int u : conflictingPoints.get(end)) {
-                if (u >= maxConflict) {
-                    secondMaxConflict = maxConflict;
-                    maxConflict = u;
-                } else if (u > secondMaxConflict) {
-                    secondMaxConflict = u;
+        long[] extra=new long[n+1]; // extra array to store extra points if i remove a particular pair
+        int max=0; // maximum pair point (optimal to remove it)
+        int smax=0; // sec optimal to remove
+        for(int end=1;end<=n;end++){
+            for(int u:conflictingPoinsts.get(end)){
+                if(u>=max){ // new conflicting point
+                    smax=max;
+                    max=u;
+                }
+                else if(u>smax){
+                    smax=u;
                 }
             }
-            // Count valid subarrays ending at 'end'
-            valid += end - maxConflict;
-            // Add extra subarrays count
-            extra[maxConflict] += maxConflict - secondMaxConflict;
+            valid+=end-max; // valid subarrays
+            extra[max]+=max-smax; // extra point if i remove this
         }
-
-        // Find the maximum value in extra array
-        long maxExtra = 0;
-        for (long val : extra) {
-            if (val > maxExtra) {
-                maxExtra = val;
+        long maxExtra=0; // maximum value of extra array becz we can remove only one point
+        for(long val:extra){
+            if(val>maxExtra){
+                maxExtra=val;
             }
         }
-
-        return valid + maxExtra;
+        return valid+maxExtra; // final answer
     }
 }
