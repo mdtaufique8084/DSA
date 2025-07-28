@@ -1,31 +1,29 @@
 class Solution {
+    int count=0;
     public int countMaxOrSubsets(int[] nums) {
-        List<List<Integer>> subset=new ArrayList<>();
-        solve(subset,0,new ArrayList<>(),nums);
         List<Integer> arr=new ArrayList<>();
         for(int num:nums){
             arr.add(num);
         }
-        int xor=xor(arr);
-        int res=0;
-        for(List<Integer> sub:subset){
-            if(xor(sub)==xor){
-                res++;
-            }
-        }
-        return res;
+        int maxOr=maxOr(arr); // max or
+        solve(0,new ArrayList<>(),nums,maxOr);
+        return count;
     }
-    private void solve(List<List<Integer>> subset,int idx,List<Integer> temp,int[] nums){
+    // backtracking to generate all the subsets of nums
+    private void solve(int idx,List<Integer> temp,int[] nums,int maxOr){
         if(idx==nums.length){
-            subset.add(new ArrayList<>(temp));
+            int or=maxOr(temp);
+            if(or==maxOr){
+                count++;
+            }
             return;
         }
         temp.add(nums[idx]);
-        solve(subset,idx+1,temp,nums);
+        solve(idx+1,temp,nums,maxOr);
         temp.remove(temp.size()-1);
-        solve(subset,idx+1,temp,nums);
+        solve(idx+1,temp,nums,maxOr);
     }
-    private int xor(List<Integer> arr){
+    private int maxOr(List<Integer> arr){
         int res=0;
         for(int num:arr){
             res|=num;
