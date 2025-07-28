@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/mdtaufique8084/DSA/tree/master/1813-maximum-erasure-value) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mdtaufique8084/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/mdtaufique8084/DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/mdtaufique8084/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/mdtaufique8084/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mdtaufique8084/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/mdtaufique8084/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Tree
 |  |
@@ -50,9 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mdtaufique8084/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/mdtaufique8084/DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/mdtaufique8084/DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mdtaufique8084/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
