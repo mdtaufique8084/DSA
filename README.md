@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/mdtaufique8084/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mdtaufique8084/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Greedy
 |  |
@@ -128,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mdtaufique8084/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/mdtaufique8084/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/mdtaufique8084/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
