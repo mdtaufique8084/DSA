@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-strong-pair-xor-i">3193. Maximum Strong Pair XOR I</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>. A pair of integers <code>x</code> and <code>y</code> is called a <strong>strong</strong> pair if it satisfies the condition:</p>
+<h2><a href="https://leetcode.com/problems/maximum-strong-pair-xor-i">Maximum Strong Pair XOR I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>. A pair of integers <code>x</code> and <code>y</code> is called a <strong>strong</strong> pair if it satisfies the condition:</p>
 
 <ul>
 	<li><code>|x - y| &lt;= min(x, y)</code></li>
