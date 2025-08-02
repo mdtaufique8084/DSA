@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/mdtaufique8084/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/mdtaufique8084/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mdtaufique8084/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2689-rearranging-fruits](https://github.com/mdtaufique8084/DSA/tree/master/2689-rearranging-fruits) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/mdtaufique8084/DSA/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mdtaufique8084/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/mdtaufique8084/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/mdtaufique8084/DSA/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/mdtaufique8084/DSA/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mdtaufique8084/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2689-rearranging-fruits](https://github.com/mdtaufique8084/DSA/tree/master/2689-rearranging-fruits) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mdtaufique8084/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/mdtaufique8084/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mdtaufique8084/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2689-rearranging-fruits](https://github.com/mdtaufique8084/DSA/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/mdtaufique8084/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
 |  |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mdtaufique8084/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2689-rearranging-fruits](https://github.com/mdtaufique8084/DSA/tree/master/2689-rearranging-fruits) |
 ## Math
 |  |
 | ------- |
