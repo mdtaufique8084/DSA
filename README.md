@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/mdtaufique8084/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/mdtaufique8084/DSA/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdtaufique8084/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/mdtaufique8084/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/mdtaufique8084/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0940-fruit-into-baskets](https://github.com/mdtaufique8084/DSA/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/mdtaufique8084/DSA/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/mdtaufique8084/DSA/tree/master/1873-longest-nice-substring) |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/mdtaufique8084/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/mdtaufique8084/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
