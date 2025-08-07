@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mdtaufique8084/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/mdtaufique8084/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/mdtaufique8084/DSA/tree/master/0940-fruit-into-baskets) |
+| [0943-sum-of-subarray-minimums](https://github.com/mdtaufique8084/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1813-maximum-erasure-value](https://github.com/mdtaufique8084/DSA/tree/master/1813-maximum-erasure-value) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mdtaufique8084/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mdtaufique8084/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/mdtaufique8084/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0943-sum-of-subarray-minimums](https://github.com/mdtaufique8084/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mdtaufique8084/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Greedy
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/mdtaufique8084/DSA/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/mdtaufique8084/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0943-sum-of-subarray-minimums](https://github.com/mdtaufique8084/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/mdtaufique8084/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Trie
 |  |
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/mdtaufique8084/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/mdtaufique8084/DSA/tree/master/3791-fruits-into-baskets-iii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/mdtaufique8084/DSA/tree/master/0943-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
