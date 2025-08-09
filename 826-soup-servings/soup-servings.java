@@ -1,10 +1,8 @@
 class Solution {
     public double soupServings(int n) {
-        if (n > 5000) return 1.0; // Optimization for large n
-        // Scale down to multiples of 25
-        n = (int) Math.ceil(n / 25.0);
+        if(n>=5000) return 1.0;
         double[][] serve = {
-            {4, 0}, {3, 1}, {2, 2}, {1, 3} // scaled down servings
+            {100, 0}, {75, 25}, {50, 50}, {25, 75}
         };
         double[][] dp=new double[n+1][n+1];
         for(double d[]:dp){
