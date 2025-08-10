@@ -1,14 +1,16 @@
 class Solution {
     public boolean reorderedPowerOf2(int n) {
-        int[] digits = numToArray(n);
+        int[] digits = numToArray(n); // helper to convert num to arr[] digit such as 617=[6,1,7]
         int len = digits.length;
+        // map to store the digit and its freq
         HashMap<Integer, Integer> map1 = new HashMap<>();
         for (int digit : digits) {
             map1.put(digit, map1.getOrDefault(digit, 0) + 1);
         }
-        int limit=(int)1e9;
-        for (int i = 1; i <=limit; i *= 2) {
-            int[] newDigits = numToArray(i);
+        // only checking valid power of 2 who is obtained from reorder of n
+        for (int i = 0; i <31; i++) {
+            int power=1<<i;
+            int[] newDigits = numToArray(power);
             HashMap<Integer, Integer> map2 = new HashMap<>();
             for (int digit : newDigits) {
                 map2.put(digit, map2.getOrDefault(digit, 0) + 1);
