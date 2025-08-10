@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/mdtaufique8084/DSA/tree/master/0085-maximal-rectangle) |
 | [0232-implement-queue-using-stacks](https://github.com/mdtaufique8084/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/mdtaufique8084/DSA/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/mdtaufique8084/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mdtaufique8084/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Greedy
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/mdtaufique8084/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/mdtaufique8084/DSA/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/mdtaufique8084/DSA/tree/master/0085-maximal-rectangle) |
+| [0937-online-stock-span](https://github.com/mdtaufique8084/DSA/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/mdtaufique8084/DSA/tree/master/0943-sum-of-subarray-minimums) |
 ## Probability and Statistics
 |  |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/mdtaufique8084/DSA/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/mdtaufique8084/DSA/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
