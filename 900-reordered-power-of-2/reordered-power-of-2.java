@@ -6,7 +6,8 @@ class Solution {
         for (int digit : digits) {
             map1.put(digit, map1.getOrDefault(digit, 0) + 1);
         }
-        for (int i = 1; i <= 1_000_000_000; i *= 2) {
+        int limit=(int)1e9;
+        for (int i = 1; i <=limit; i *= 2) {
             int[] newDigits = numToArray(i);
             HashMap<Integer, Integer> map2 = new HashMap<>();
             for (int digit : newDigits) {
