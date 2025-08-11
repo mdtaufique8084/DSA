@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/mdtaufique8084/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/mdtaufique8084/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mdtaufique8084/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/mdtaufique8084/DSA/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/mdtaufique8084/DSA/tree/master/2689-rearranging-fruits) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/mdtaufique8084/DSA/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mdtaufique8084/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/mdtaufique8084/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/mdtaufique8084/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mdtaufique8084/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/mdtaufique8084/DSA/tree/master/2529-range-product-queries-of-powers) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mdtaufique8084/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Tree
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mdtaufique8084/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/mdtaufique8084/DSA/tree/master/2529-range-product-queries-of-powers) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/mdtaufique8084/DSA/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Backtracking
 |  |
