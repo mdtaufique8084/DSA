@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mdtaufique8084/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/mdtaufique8084/DSA/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/mdtaufique8084/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0621-task-scheduler](https://github.com/mdtaufique8084/DSA/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/mdtaufique8084/DSA/tree/master/0739-daily-temperatures) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/mdtaufique8084/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/mdtaufique8084/DSA/tree/master/0940-fruit-into-baskets) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/mdtaufique8084/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mdtaufique8084/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0621-task-scheduler](https://github.com/mdtaufique8084/DSA/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/mdtaufique8084/DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/mdtaufique8084/DSA/tree/master/0940-fruit-into-baskets) |
 | [1256-rank-transform-of-an-array](https://github.com/mdtaufique8084/DSA/tree/master/1256-rank-transform-of-an-array) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/mdtaufique8084/DSA/tree/master/0621-task-scheduler) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mdtaufique8084/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2689-rearranging-fruits](https://github.com/mdtaufique8084/DSA/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/mdtaufique8084/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/mdtaufique8084/DSA/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/mdtaufique8084/DSA/tree/master/0900-reordered-power-of-2) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mdtaufique8084/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdtaufique8084/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/mdtaufique8084/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0621-task-scheduler](https://github.com/mdtaufique8084/DSA/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/mdtaufique8084/DSA/tree/master/0900-reordered-power-of-2) |
 | [1256-rank-transform-of-an-array](https://github.com/mdtaufique8084/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mdtaufique8084/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -232,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/mdtaufique8084/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdtaufique8084/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/mdtaufique8084/DSA/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/mdtaufique8084/DSA/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
 | ------- |
