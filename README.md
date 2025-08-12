@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/mdtaufique8084/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/mdtaufique8084/DSA/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/mdtaufique8084/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [1256-rank-transform-of-an-array](https://github.com/mdtaufique8084/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1813-maximum-erasure-value](https://github.com/mdtaufique8084/DSA/tree/master/1813-maximum-erasure-value) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mdtaufique8084/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mdtaufique8084/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mdtaufique8084/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0900-reordered-power-of-2](https://github.com/mdtaufique8084/DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/mdtaufique8084/DSA/tree/master/0940-fruit-into-baskets) |
+| [1256-rank-transform-of-an-array](https://github.com/mdtaufique8084/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1813-maximum-erasure-value](https://github.com/mdtaufique8084/DSA/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/mdtaufique8084/DSA/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mdtaufique8084/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mdtaufique8084/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/mdtaufique8084/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0900-reordered-power-of-2](https://github.com/mdtaufique8084/DSA/tree/master/0900-reordered-power-of-2) |
+| [1256-rank-transform-of-an-array](https://github.com/mdtaufique8084/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mdtaufique8084/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2689-rearranging-fruits](https://github.com/mdtaufique8084/DSA/tree/master/2689-rearranging-fruits) |
 ## Math
