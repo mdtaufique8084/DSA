@@ -1,9 +1,8 @@
 class Solution {
     public int maximum69Number (int num) {
-        String str=Integer.toString(num);
-        StringBuilder sb=new StringBuilder(str);
+        StringBuilder sb=new StringBuilder(num+"");
         int max=num;
-        int n=str.length();
+        int n=sb.length();
         for(int i=0;i<n;i++){
             StringBuilder temp=new StringBuilder(sb);
             char ch=sb.charAt(i);
