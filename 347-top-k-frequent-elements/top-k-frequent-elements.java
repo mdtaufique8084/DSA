@@ -4,17 +4,24 @@ class Solution {
         for(int num:nums){
             map.put(num,map.getOrDefault(num,0)+1);
         }
-        PriorityQueue<Map.Entry<Integer,Integer>> pq=new PriorityQueue<>((a,b)->a.getValue()-b.getValue());
+        List<Integer>[] bucket=new ArrayList[nums.length+1];
+        for(int i=0;i<=nums.length;i++){
+            bucket[i]=new ArrayList<>();
+        }
         for(Map.Entry<Integer,Integer> entry:map.entrySet()){
-            pq.offer(entry);
-            if(pq.size()>k){
-                pq.poll();
-            }
+            int element=entry.getKey();
+            int freq=entry.getValue();
+            bucket[freq].add(element);
         }
         int[] res=new int[k];
         int idx=0;
-        while(idx<k){
-            res[idx++]=pq.poll().getKey();
+        for(int i=nums.length;i>=0 && idx<k;i--){
+            if(!bucket[i].isEmpty()){
+                for(int el:bucket[i]){
+                    res[idx++]=el;
+                    if(idx==k) break;
+                }
+            }
         }
         return res;
     }
