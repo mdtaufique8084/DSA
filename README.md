@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/mdtaufique8084/DSA/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/mdtaufique8084/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1256-rank-transform-of-an-array](https://github.com/mdtaufique8084/DSA/tree/master/1256-rank-transform-of-an-array) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/mdtaufique8084/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mdtaufique8084/DSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1813-maximum-erasure-value](https://github.com/mdtaufique8084/DSA/tree/master/1813-maximum-erasure-value) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mdtaufique8084/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/mdtaufique8084/DSA/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/mdtaufique8084/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/mdtaufique8084/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/mdtaufique8084/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/mdtaufique8084/DSA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/mdtaufique8084/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Trie
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/mdtaufique8084/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/mdtaufique8084/DSA/tree/master/0085-maximal-rectangle) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/mdtaufique8084/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/mdtaufique8084/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Simulation
 |  |
