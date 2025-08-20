@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdtaufique8084/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdtaufique8084/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/mdtaufique8084/DSA/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/mdtaufique8084/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mdtaufique8084/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/mdtaufique8084/DSA/tree/master/0621-task-scheduler) |
 | [0679-24-game](https://github.com/mdtaufique8084/DSA/tree/master/0679-24-game) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/mdtaufique8084/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/mdtaufique8084/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mdtaufique8084/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/mdtaufique8084/DSA/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/mdtaufique8084/DSA/tree/master/0876-hand-of-straights) |
@@ -161,10 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mdtaufique8084/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdtaufique8084/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/mdtaufique8084/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1873-longest-nice-substring](https://github.com/mdtaufique8084/DSA/tree/master/1873-longest-nice-substring) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mdtaufique8084/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/mdtaufique8084/DSA/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/mdtaufique8084/DSA/tree/master/0900-reordered-power-of-2) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mdtaufique8084/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdtaufique8084/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/mdtaufique8084/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mdtaufique8084/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/mdtaufique8084/DSA/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/mdtaufique8084/DSA/tree/master/0876-hand-of-straights) |
@@ -262,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/mdtaufique8084/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdtaufique8084/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/mdtaufique8084/DSA/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/mdtaufique8084/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/mdtaufique8084/DSA/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
@@ -275,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdtaufique8084/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/mdtaufique8084/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -283,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mdtaufique8084/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mdtaufique8084/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
