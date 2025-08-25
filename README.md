@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mdtaufique8084/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/mdtaufique8084/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mdtaufique8084/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0498-diagonal-traverse](https://github.com/mdtaufique8084/DSA/tree/master/0498-diagonal-traverse) |
 | [0621-task-scheduler](https://github.com/mdtaufique8084/DSA/tree/master/0621-task-scheduler) |
 | [0679-24-game](https://github.com/mdtaufique8084/DSA/tree/master/0679-24-game) |
 | [0739-daily-temperatures](https://github.com/mdtaufique8084/DSA/tree/master/0739-daily-temperatures) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mdtaufique8084/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/mdtaufique8084/DSA/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/mdtaufique8084/DSA/tree/master/0221-maximal-square) |
+| [0498-diagonal-traverse](https://github.com/mdtaufique8084/DSA/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mdtaufique8084/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/mdtaufique8084/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/mdtaufique8084/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/mdtaufique8084/DSA/tree/master/0498-diagonal-traverse) |
 | [3790-fruits-into-baskets-ii](https://github.com/mdtaufique8084/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
