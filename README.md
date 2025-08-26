@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/mdtaufique8084/DSA/tree/master/2689-rearranging-fruits) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/mdtaufique8084/DSA/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mdtaufique8084/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mdtaufique8084/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/mdtaufique8084/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mdtaufique8084/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/mdtaufique8084/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
