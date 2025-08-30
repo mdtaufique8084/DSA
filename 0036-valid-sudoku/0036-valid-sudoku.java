@@ -1,50 +1,19 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
-        for(int r=0;r<9;r++){
-            Set<Character> set=new HashSet<>();
-            for(int c=0;c<9;c++){
-                char ch=board[r][c];
-                if(ch=='.') continue;
-                if(set.contains(ch)){
+        Set<String> seen=new HashSet<>();
+        for(int i=0;i<9;i++){
+            for(int j=0;j<9;j++){
+                char num=board[i][j];
+                if(num=='.') continue;
+                String row=num+"_row_"+i;
+                String col=num+"_col_"+j;
+                String box=num+"_box_"+(i/3)+"_"+(j/3);
+                if(seen.contains(row) || seen.contains(col) || seen.contains(box)){
                     return false;
                 }
-                set.add(ch);
-            }
-        }
-        
-        for(int c=0;c<9;c++){
-            Set<Character> set=new HashSet<>();
-            for(int r=0;r<9;r++){
-                char ch=board[r][c];
-                if(ch=='.') continue;
-                if(set.contains(ch)){
-                    return false;
-                }
-                set.add(ch);
-            }
-        }
-
-        for(int sr=0;sr<9;sr+=3){
-            int er=sr+2;
-            for(int sc=0;sc<9;sc+=3){
-                int ec=sc+2;
-                if(!validate(board,sr,er,sc,ec)){
-                    return false;
-                }
-            }
-        }
-        return true;
-    }
-    private boolean validate(char[][] board,int sr,int er,int sc,int ec){
-        Set<Character> set=new HashSet<>();
-        for(int r=sr;r<=er;r++){
-            for(int c=sc;c<=ec;c++){
-                char ch=board[r][c];
-                if(ch=='.') continue;
-                if(set.contains(ch)){
-                    return false;
-                }
-                set.add(ch);
+                seen.add(row);
+                seen.add(col);
+                seen.add(box);
             }
         }
         return true;
