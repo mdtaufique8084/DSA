@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mdtaufique8084/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/mdtaufique8084/DSA/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/mdtaufique8084/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mdtaufique8084/DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/mdtaufique8084/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mdtaufique8084/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/mdtaufique8084/DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/mdtaufique8084/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/mdtaufique8084/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mdtaufique8084/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mdtaufique8084/DSA/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/mdtaufique8084/DSA/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mdtaufique8084/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mdtaufique8084/DSA/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/mdtaufique8084/DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/mdtaufique8084/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/mdtaufique8084/DSA/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/mdtaufique8084/DSA/tree/master/0221-maximal-square) |
