@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mdtaufique8084/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/mdtaufique8084/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/mdtaufique8084/DSA/tree/master/0118-pascals-triangle) |
+| [0135-candy](https://github.com/mdtaufique8084/DSA/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdtaufique8084/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdtaufique8084/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/mdtaufique8084/DSA/tree/master/0221-maximal-square) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/mdtaufique8084/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mdtaufique8084/DSA/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/mdtaufique8084/DSA/tree/master/0135-candy) |
 | [0621-task-scheduler](https://github.com/mdtaufique8084/DSA/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/mdtaufique8084/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0876-hand-of-straights](https://github.com/mdtaufique8084/DSA/tree/master/0876-hand-of-straights) |
