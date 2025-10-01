@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/mdtaufique8084/DSA/tree/master/0091-decode-ways) |
 | [0678-valid-parenthesis-string](https://github.com/mdtaufique8084/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mdtaufique8084/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mdtaufique8084/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mdtaufique8084/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mdtaufique8084/DSA/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/mdtaufique8084/DSA/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/mdtaufique8084/DSA/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/mdtaufique8084/DSA/tree/master/0118-pascals-triangle) |
 | [0221-maximal-square](https://github.com/mdtaufique8084/DSA/tree/master/0221-maximal-square) |
 | [0678-valid-parenthesis-string](https://github.com/mdtaufique8084/DSA/tree/master/0678-valid-parenthesis-string) |
