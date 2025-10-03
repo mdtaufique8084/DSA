@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/mdtaufique8084/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mdtaufique8084/DSA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/mdtaufique8084/DSA/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/mdtaufique8084/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mdtaufique8084/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/mdtaufique8084/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/mdtaufique8084/DSA/tree/master/0118-pascals-triangle) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/mdtaufique8084/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mdtaufique8084/DSA/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/mdtaufique8084/DSA/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/mdtaufique8084/DSA/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/mdtaufique8084/DSA/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/mdtaufique8084/DSA/tree/master/0118-pascals-triangle) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/mdtaufique8084/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/mdtaufique8084/DSA/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/mdtaufique8084/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mdtaufique8084/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/mdtaufique8084/DSA/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/mdtaufique8084/DSA/tree/master/0221-maximal-square) |
