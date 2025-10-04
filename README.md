@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mdtaufique8084/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/mdtaufique8084/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/mdtaufique8084/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0416-partition-equal-subset-sum](https://github.com/mdtaufique8084/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0498-diagonal-traverse](https://github.com/mdtaufique8084/DSA/tree/master/0498-diagonal-traverse) |
 | [0621-task-scheduler](https://github.com/mdtaufique8084/DSA/tree/master/0621-task-scheduler) |
 | [0679-24-game](https://github.com/mdtaufique8084/DSA/tree/master/0679-24-game) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/mdtaufique8084/DSA/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/mdtaufique8084/DSA/tree/master/0118-pascals-triangle) |
 | [0221-maximal-square](https://github.com/mdtaufique8084/DSA/tree/master/0221-maximal-square) |
+| [0416-partition-equal-subset-sum](https://github.com/mdtaufique8084/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/mdtaufique8084/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/mdtaufique8084/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/mdtaufique8084/DSA/tree/master/0826-soup-servings) |
