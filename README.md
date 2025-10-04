@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/mdtaufique8084/DSA/tree/master/0498-diagonal-traverse) |
 | [0621-task-scheduler](https://github.com/mdtaufique8084/DSA/tree/master/0621-task-scheduler) |
 | [0679-24-game](https://github.com/mdtaufique8084/DSA/tree/master/0679-24-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/mdtaufique8084/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0739-daily-temperatures](https://github.com/mdtaufique8084/DSA/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/mdtaufique8084/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0876-hand-of-straights](https://github.com/mdtaufique8084/DSA/tree/master/0876-hand-of-straights) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/mdtaufique8084/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/mdtaufique8084/DSA/tree/master/0342-power-of-four) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/mdtaufique8084/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/mdtaufique8084/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1873-longest-nice-substring](https://github.com/mdtaufique8084/DSA/tree/master/1873-longest-nice-substring) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mdtaufique8084/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/mdtaufique8084/DSA/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/mdtaufique8084/DSA/tree/master/0679-24-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/mdtaufique8084/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mdtaufique8084/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search
 |  |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/mdtaufique8084/DSA/tree/master/0221-maximal-square) |
 | [0416-partition-equal-subset-sum](https://github.com/mdtaufique8084/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/mdtaufique8084/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/mdtaufique8084/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0747-min-cost-climbing-stairs](https://github.com/mdtaufique8084/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/mdtaufique8084/DSA/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/mdtaufique8084/DSA/tree/master/0867-new-21-game) |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/mdtaufique8084/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/mdtaufique8084/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Radix Sort
 |  |
@@ -408,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/mdtaufique8084/DSA/tree/master/0948-sort-an-array) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/mdtaufique8084/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
