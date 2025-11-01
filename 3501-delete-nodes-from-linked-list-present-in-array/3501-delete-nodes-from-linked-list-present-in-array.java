@@ -9,13 +9,14 @@
  * }
  */
 class Solution {
-    public ListNode modifiedList(int[] nums, ListNode head) {
+    public ListNode modifiedList(int[] nums, ListNode temp) {
         HashSet<Integer> set=new HashSet<>();
         for(int num:nums){
             set.add(num);
         }
         ListNode res=new ListNode(-1);
         ListNode dummy=res;
+        ListNode head=temp;
         while(head!=null){
             int data=head.val;
             if(!set.contains(data)){
