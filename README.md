@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mdtaufique8084/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mdtaufique8084/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/mdtaufique8084/DSA/tree/master/1628-count-submatrices-with-all-ones) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/mdtaufique8084/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/mdtaufique8084/DSA/tree/master/1813-maximum-erasure-value) |
 | [1917-maximum-average-pass-ratio](https://github.com/mdtaufique8084/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mdtaufique8084/DSA/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/mdtaufique8084/DSA/tree/master/0091-decode-ways) |
 | [0678-valid-parenthesis-string](https://github.com/mdtaufique8084/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mdtaufique8084/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/mdtaufique8084/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mdtaufique8084/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1873-longest-nice-substring](https://github.com/mdtaufique8084/DSA/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mdtaufique8084/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/mdtaufique8084/DSA/tree/master/0890-lemonade-change) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mdtaufique8084/DSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1448-maximum-69-number](https://github.com/mdtaufique8084/DSA/tree/master/1448-maximum-69-number) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/mdtaufique8084/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mdtaufique8084/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/mdtaufique8084/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2689-rearranging-fruits](https://github.com/mdtaufique8084/DSA/tree/master/2689-rearranging-fruits) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mdtaufique8084/DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mdtaufique8084/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/mdtaufique8084/DSA/tree/master/1628-count-submatrices-with-all-ones) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/mdtaufique8084/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/mdtaufique8084/DSA/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/mdtaufique8084/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/mdtaufique8084/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
