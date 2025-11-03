@@ -5,7 +5,7 @@ class Solution {
         int j=0;
         for(int i=1;i<n;i++){
             char curr=colors.charAt(i);
-            char prev=colors.charAt(i-1);
+            char prev=colors.charAt(j);
             if(curr==prev){
                 minTime+=Math.min(needTime[i],needTime[j]);
                 if(needTime[i]>needTime[j]){
