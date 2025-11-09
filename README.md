@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mdtaufique8084/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mdtaufique8084/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1448-maximum-69-number](https://github.com/mdtaufique8084/DSA/tree/master/1448-maximum-69-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/mdtaufique8084/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/mdtaufique8084/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/mdtaufique8084/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mdtaufique8084/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/mdtaufique8084/DSA/tree/master/0498-diagonal-traverse) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mdtaufique8084/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2288-count-operations-to-obtain-zero](https://github.com/mdtaufique8084/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mdtaufique8084/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3790-fruits-into-baskets-ii](https://github.com/mdtaufique8084/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
