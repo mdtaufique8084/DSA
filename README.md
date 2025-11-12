@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mdtaufique8084/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/mdtaufique8084/DSA/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/mdtaufique8084/DSA/tree/master/2689-rearranging-fruits) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/mdtaufique8084/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/mdtaufique8084/DSA/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mdtaufique8084/DSA/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mdtaufique8084/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/mdtaufique8084/DSA/tree/master/1448-maximum-69-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/mdtaufique8084/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/mdtaufique8084/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/mdtaufique8084/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/mdtaufique8084/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mdtaufique8084/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3830-find-closest-person](https://github.com/mdtaufique8084/DSA/tree/master/3830-find-closest-person) |
@@ -470,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/mdtaufique8084/DSA/tree/master/3863-power-grid-maintenance) |
+## Number Theory
+|  |
+| ------- |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/mdtaufique8084/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 <!---LeetCode Topics End-->
