@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/mdtaufique8084/DSA/tree/master/0621-task-scheduler) |
 | [0679-24-game](https://github.com/mdtaufique8084/DSA/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mdtaufique8084/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/mdtaufique8084/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/mdtaufique8084/DSA/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/mdtaufique8084/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0876-hand-of-straights](https://github.com/mdtaufique8084/DSA/tree/master/0876-hand-of-straights) |
