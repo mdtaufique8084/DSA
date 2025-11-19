@@ -1,54 +1,41 @@
 class Solution {
     public int myAtoi(String s) {
-        String temp = s.trim();
-        if (temp.isEmpty()) return 0;
+        int start = 0;
+        int signed = 1;
+        int n = s.length();
+        long result = 0; // use long to detect overflow
 
-        StringBuilder sb = new StringBuilder();
-        char st = temp.charAt(0);
-
-        // accept only one sign or a digit
-        if (st == '-' || st == '+' || Character.isDigit(st)) {
-            sb.append(st);
-        } else {
-            return 0;
+        // 1. Skip leading spaces
+        while (start < n && s.charAt(start) == ' ') {
+            start++;
         }
 
-        // build the number part
-        for (int i = 1; i < temp.length(); i++) {
-            char ch = temp.charAt(i);
-            if (!Character.isDigit(ch)) break;
-            sb.append(ch);
+        // 2. Sign check
+        if (start < n && s.charAt(start) == '+') {
+            signed = 1;
+            start++;
+        } else if (start < n && s.charAt(start) == '-') {
+            signed = -1;
+            start++;
         }
 
-        String result = sb.toString();
+        // 3. Convert digits
+        for (int i = start; i < n; i++) {
+            char ch = s.charAt(i);
+            if (ch < '0' || ch > '9') break;
 
-        // CASE: result is only "+" or "-"
-        if (result.equals("+") || result.equals("-")) {
-            return 0;
-        }
+            int digit = ch - '0';
+            result = result * 10 + digit;
 
-        // manually accumulate to avoid overflow
-        long num = 0;
-        boolean neg = (result.charAt(0) == '-');
-        int start = (result.charAt(0) == '+' || result.charAt(0) == '-') ? 1 : 0;
-
-        for (int i = start; i < result.length(); i++) {
-            int digit = result.charAt(i) - '0';
-
-            // detect overflow before it happens
-            if (!neg && (num > (long)Integer.MAX_VALUE/10 ||
-                    (num == (long)Integer.MAX_VALUE/10 && digit > 7))) {
+            // 4. Clamp on overflow
+            if (signed == 1 && result > Integer.MAX_VALUE) {
                 return Integer.MAX_VALUE;
             }
-
-            if (neg && (num > (long)Integer.MIN_VALUE/-10 ||
-                    (num == (long)Integer.MIN_VALUE/-10 && digit > 8))) {
+            if (signed == -1 && -result < Integer.MIN_VALUE) {
                 return Integer.MIN_VALUE;
             }
-
-            num = num * 10 + digit;
         }
 
-        return neg ? (int)-num : (int)num;
+        return (int)(result * signed);
     }
 }
