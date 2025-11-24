@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/mdtaufique8084/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/mdtaufique8084/DSA/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/mdtaufique8084/DSA/tree/master/0091-decode-ways) |
 | [0678-valid-parenthesis-string](https://github.com/mdtaufique8084/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mdtaufique8084/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mdtaufique8084/DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/mdtaufique8084/DSA/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/mdtaufique8084/DSA/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/mdtaufique8084/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mdtaufique8084/DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/mdtaufique8084/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mdtaufique8084/DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/mdtaufique8084/DSA/tree/master/0064-minimum-path-sum) |
