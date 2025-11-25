@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/mdtaufique8084/DSA/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/mdtaufique8084/DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/mdtaufique8084/DSA/tree/master/0940-fruit-into-baskets) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/mdtaufique8084/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/mdtaufique8084/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/mdtaufique8084/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/mdtaufique8084/DSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/mdtaufique8084/DSA/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/mdtaufique8084/DSA/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/mdtaufique8084/DSA/tree/master/0900-reordered-power-of-2) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/mdtaufique8084/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mdtaufique8084/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mdtaufique8084/DSA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1448-maximum-69-number](https://github.com/mdtaufique8084/DSA/tree/master/1448-maximum-69-number) |
