@@ -1,17 +1,19 @@
 class Solution {
     public int[] countMentions(int n, List<List<String>> events) {
-        // Make a copy and sort by (timestamp asc, OFFLINE before MESSAGE at same timestamp)
-        List<List<String>> ev = new ArrayList<>(events);
-        ev.sort((a, b) -> {
+        // sort by (timestamp asc, OFFLINE before MESSAGE at same timestamp)
+        events.sort((a, b) -> {
             int t1 = Integer.parseInt(a.get(1));
             int t2 = Integer.parseInt(b.get(1));
-            if (t1 != t2) return Integer.compare(t1, t2);
-            // same timestamp: OFFLINE should come before MESSAGE
+            if (t1 != t2)
+                return Integer.compare(t1, t2);
+
+            // same timestamp: OFFLINE before MESSAGE
             String type1 = a.get(0), type2 = b.get(0);
-            if (type1.equals(type2)) return 0;
-            if (type1.equals("OFFLINE")) return -1;
-            if (type2.equals("OFFLINE")) return 1;
-            return 0;
+            if (type1.equals(type2))
+                return 0;
+            if (type1.equals("OFFLINE"))
+                return -1;
+            return 1;
         });
 
         int[] mentions = new int[n];
@@ -19,7 +21,7 @@ class Solution {
         int[] offlineUntil = new int[n];
         Arrays.fill(online, true);
 
-        for (List<String> event : ev) {
+        for (List<String> event : events) {
             String type = event.get(0);
             int timeStamp = Integer.parseInt(event.get(1));
 
@@ -43,9 +45,12 @@ class Solution {
 
             for (String token : tokens) {
                 if (token.equals("ALL")) {
-                    for (int i = 0; i < n; i++) mentions[i]++;
+                    for (int i = 0; i < n; i++)
+                        mentions[i]++;
                 } else if (token.equals("HERE")) {
-                    for (int i = 0; i < n; i++) if (online[i]) mentions[i]++;
+                    for (int i = 0; i < n; i++)
+                        if (online[i])
+                            mentions[i]++;
                 } else if (token.startsWith("id")) {
                     int id = Integer.parseInt(token.substring(2));
                     mentions[id]++;
