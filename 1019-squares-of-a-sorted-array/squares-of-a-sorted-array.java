@@ -2,11 +2,14 @@ class Solution {
     public int[] sortedSquares(int[] nums) {
         int n=nums.length;
         int[] res=new int[n];
-        int right=0;
-        while(right<n && nums[right]<0){
-            right++;
+        int left=-1,right=-1;
+        for(int i=0;i<n;i++){
+            if(nums[i]>0){
+                break;
+            }
+            left++;
         }
-        int left=right-1;
+        right=left+1;
         int idx=0;
         while(left>=0 && right<n){
             int x=nums[left]*nums[left];
