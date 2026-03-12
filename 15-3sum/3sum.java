@@ -2,8 +2,9 @@ class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         int n=nums.length;
         Arrays.sort(nums);
-        HashSet<List<Integer>> set=new HashSet<>();
+        List<List<Integer>> result=new ArrayList<>();
         for(int i=0;i<n-2;i++){
+            if(i>0 && nums[i]==nums[i-1]) continue;
             int first=nums[i];
             int left=i+1;
             int right=n-1;
@@ -12,11 +13,7 @@ class Solution {
                 int third=nums[right];
                 int sum=first+sec+third;
                 if(sum==0){
-                    List<Integer> temp=new ArrayList<>();
-                    temp.add(first);
-                    temp.add(sec);
-                    temp.add(third);
-                    set.add(temp);
+                   result.add(Arrays.asList(nums[i], nums[left], nums[right]));
                     while(left<right && nums[left]==nums[left+1]){
                         left++;
                     }
@@ -34,7 +31,7 @@ class Solution {
                 }
             }
         }
-        return new ArrayList<>(set);
+        return result;
     }
 }
 
