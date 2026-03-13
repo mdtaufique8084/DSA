@@ -23,9 +23,6 @@ class Solution {
         for(int i=0;i<idx-n-1;i++){
             temp=temp.next;
         }
-        if(temp.next==null){
-            return null;
-        }
         if(temp.next!=null){
             temp.next=temp.next.next;
         }
