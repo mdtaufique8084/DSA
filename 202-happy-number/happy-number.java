@@ -1,20 +1,21 @@
 class Solution {
     public boolean isHappy(int n) {
-        int actualNo=n;
-        if(n==1 || n==7) return true;
-        if(n>1 && n<10) return false;
-        while(n>9){
-            n=squareOfDigit(n);
-            if(n==1 || n==7) return true;
+        HashSet<Integer> set=new HashSet<>();
+        while(true){
+            int sum=square(n);
+            if(sum==1) return true;
+            n=sum;
+            if(set.contains(n)) return false;
+            set.add(n);
         }
-        return false;
+        // return true;
     }
-    private int squareOfDigit(int n){
+    private int square(int val){
         int res=0;
-        while(n!=0){
-            int lastDigit=n%10;
-            res+=lastDigit*lastDigit;
-            n=n/10;
+        while(val!=0){
+            int last=val%10;
+            res+=last*last;
+            val=val/10;
         }
         return res;
     }
