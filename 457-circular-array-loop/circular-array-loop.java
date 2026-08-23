@@ -5,41 +5,43 @@ class Solution {
             if(nums[i]==0){
                 continue;
             }
-            HashSet<Integer> set = new HashSet<>();
             boolean isPos = nums[i] > 0;
             int curr = i;
-            while (true) {
-                int next = calculateNext(nums, curr);
-                if (isPos) {
-                    if (nums[next] < 0) {
+            int slow=i;
+            int fast=i;
+            do{
+                slow=calculateNext(nums,slow);
+                fast=calculateNext(nums,fast);
+                if(isPos){
+                    if(nums[fast]<0){
                         break;
-                    } else {
-                        if (set.contains(next)) {
-                            if (curr != next) {
-                                return true;
-                            } else {
-                                break;
-                            }
-                        }
-                        set.add(next);
-                    }
-                } else {
-                    if (nums[next] > 0) {
-                        break;
-                    } else {
-                        if (set.contains(next)) {
-                            if (curr != next) {
-                                return true;
-                            } else {
-                                break;
-                            }
-                        }
-                        set.add(next);
                     }
                 }
-                curr = next;
-            }
+                else{
+                    if(nums[fast]>0){
+                        break;
+                    }
+                }
+                fast=calculateNext(nums,fast);
+                if(isPos){
+                    if(nums[fast]<0){
+                        break;
+                    }
+                }
+                else{
+                    if(nums[fast]>0){
+                        break;
+                    }
+                }
 
+                if(slow==fast){
+                    if(slow!=calculateNext(nums,slow)){
+                        return true;
+                    }
+                    break;
+                }
+            }
+            while(slow!=fast);
             curr=i;
             if(isPos){
                 while(nums[curr]>0){
