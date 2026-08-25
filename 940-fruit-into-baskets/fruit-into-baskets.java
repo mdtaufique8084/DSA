@@ -14,13 +14,7 @@ class Solution {
                 }
                 left++;
             }
-            if(map.size()<=2){
-                int freqSum=0;
-                for(int val:map.values()){
-                    freqSum+=val;
-                }
-                maxCount=Math.max(maxCount,freqSum);
-            }
+            maxCount = Math.max(maxCount, right - left + 1);
             right++;
         }
         return maxCount;
